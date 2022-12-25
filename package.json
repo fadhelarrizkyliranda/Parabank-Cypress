@@ -1,0 +1,25 @@
+{
+  "name": "parabank-cypress",
+  "version": "1.0.0",
+  "description": "This repo is the source code to understanding UI Automation testing using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadhelarrizkyliranda/Parabank-Cypress.git"
+  },
+  "author": "Fadhel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadhelarrizkyliranda/Parabank-Cypress/issues"
+  },
+  "homepage": "https://github.com/fadhelarrizkyliranda/Parabank-Cypress#readme",
+  "dependencies": {
+    "cypress": "^12.2.0"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
